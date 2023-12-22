@@ -45,6 +45,8 @@ A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
 - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
+- [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
+- [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
 
 ## Licencia
 Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
