@@ -53,37 +53,42 @@
         </h1>
         <i class="fa-solid fa-compact-disc"></i>
         <form class="form-container">
-          <label class="username">
+          <label class="username" for="mail">
             <i class="fa-solid fa-envelope"></i>
             <input
+              id="mail"
               type="email"
               class="user-input"
               placeholder="E-Mail"
-              pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,4}$"
+              pattern="^[a-z0-9]+@[a-z]+\.[a-z]{2,3}$"
               required
             />
           </label>
-          <p id="errorMail"></p>
-          <label class="password">
-            <i class="fa-solid fa-lock"></i>
-            <input
-              type="password"
-              class="pass-input"
-              placeholder="Password"
-              minlength="6"
-              maxlength="12"
-              pattern="^(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{6,12}$"
-              required
-            />
-          </label>
-          <p id="errorContraseña"></p>
-          <label class="keepme">
-            <input type="checkbox" checked="true" />
+          <p id="errorMail" class="errorMensajeForm"></p>
+          <div id="contra">
+            <label class="password" for="contrasinal">
+              <i class="fa-solid fa-lock"></i>
+              <input
+                id="contrasinal"
+                type="password"
+                class="pass-input"
+                placeholder="Password"
+                minlength="6"
+                maxlength="12"
+                pattern="^(?=.*[A-Z])(?=.*\d)(?=.*[@$!%*?&])[A-Za-z\d@$!%*?&]{6,12}$"
+                required
+              />
+              <i class="fa-regular fa-eye" id="contrasinal_visibility"></i>
+            </label>
+            <p id="errorContrasinal" class="errorMensajeForm"></p>
+          </div>
+          <label id="labelRemember" class="keepme" for="remember">
+            <input id="remember" type="checkbox" checked="true" />
             Remember me
           </label>
-          <button type="submit">Login</button>
+          <button type="submit" id="enviar">Login</button>
           <p class="link">
-            Forgot Password? 
+            Forgot Password?
             <a href="#">Click here</a>
           </p>
         </form>
