@@ -18,13 +18,13 @@ Esta Login Page, inspirada en el ["Login Page" de Frontend Projects](https://fro
 ![Login Page vista desde un Ordenador](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)
 
 #### Vista desde un teléfono
-- Pixel 7 <br><br>
-![Login Page vista desde un Google Pixel 7](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-pixel-7.png)
+- Pixel 7 <br>
+<img src="https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-pixel-7.png" alt="Login Page vista desde un Google Pixel 7" height=700px>
 
 <br>
 
-- iPhone SE <br><br>
-![Login Page vista desde un iPhone SE](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-iphone-se.png)
+- iPhone SE <br>
+<img src="https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-iphone-se.png" alt="Login Page vista desde un iPhone SE" height=500px>
 
 #### Vista desde una tablet
 - Nest Hub Max <br><br>
