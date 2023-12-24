@@ -38,6 +38,7 @@ Esta Login Page, inspirada en el ["Login Page" de Frontend Projects](https://fro
 ## Características
 
 Este proyecto consiste en una página de inicio de sesión responsive, que permite ingresar con correo electrónico y contraseña. El sistema valida estos campos y cuenta tanto con la funcionalidad de "Recordarme", que guarda el nombre de usuario para facilitar futuros accesos, como con la funcionalidad de ver la contraseña.
+[![Vídeo mostrando funcionalidades](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)](https://github.com/CrisCorreaS/login-page/blob/main/video/login-page-video.mp4)
 
 ## Tecnologías Utilizadas
 
