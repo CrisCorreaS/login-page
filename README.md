@@ -14,7 +14,7 @@ Esta Login Page, inspirada en el ["Login Page" de Frontend Projects](https://fro
 
 ## Características
 
-Este proyecto consiste en una página de inicio de sesión responsive, que permite ingresar con correo electrónico o nombre de usuario y contraseña. El sistema valida estos campos y cuenta con la funcionalidad de "Recordarme", que guarda el nombre de usuario para facilitar futuros accesos.
+Este proyecto consiste en una página de inicio de sesión responsive, que permite ingresar con correo electrónico y contraseña. El sistema valida estos campos y cuenta tanto con la funcionalidad de "Recordarme", que guarda el nombre de usuario para facilitar futuros accesos, como con la funcionalidad de ver la contraseña.
 
 ## Tecnologías Utilizadas
 
@@ -43,6 +43,7 @@ A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
 - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
 - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [W3Schools - Toggle Password Visibility](https://www.w3schools.com/howto/howto_js_toggle_password.asp)
 - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
 - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
 - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
