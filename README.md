@@ -12,6 +12,29 @@ Esta Login Page, inspirada en el ["Login Page" de Frontend Projects](https://fro
 #### Vista previa del Login Page
 ![Vista previa del Login Page](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)
 
+## Responsive
+
+#### Vista desde un ordenador
+![Login Page vista desde un Ordenador](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)
+
+#### Vista desde un teléfono
+- Pixel 7 <br><br>
+![Login Page vista desde un Google Pixel 7](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-pixel-7.png)
+
+<br>
+
+- iPhone SE <br><br>
+![Login Page vista desde un iPhone SE](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-iphone-se.png)
+
+#### Vista desde una tablet
+- Nest Hub Max <br><br>
+![Login Page vista desde un Nest Hub Max](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-nest-hub-max.png)
+
+<br>
+
+- iPad Pro <br><br>
+![Login Page vista desde un iPad Pro](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-ipad-pro.png)
+
 ## Características
 
 Este proyecto consiste en una página de inicio de sesión responsive, que permite ingresar con correo electrónico y contraseña. El sistema valida estos campos y cuenta tanto con la funcionalidad de "Recordarme", que guarda el nombre de usuario para facilitar futuros accesos, como con la funcionalidad de ver la contraseña.
