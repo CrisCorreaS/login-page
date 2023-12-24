@@ -2,7 +2,9 @@ const EMAIL = document.getElementById("mail");
 const CONTRASINAL = document.getElementById("contrasinal");
 const ERROR_MAIL = document.getElementById("errorMail");
 const ERROR_CONTRASINAL = document.getElementById("errorContrasinal");
-const CONTRASINAL_VISIBILITY = document.getElementById("contrasinal_visibility");
+const CONTRASINAL_VISIBILITY = document.getElementById(
+  "contrasinal_visibility"
+);
 const RECORDAR = document.getElementById("remember");
 const ENVIAR = document.getElementById("enviar");
 
@@ -48,10 +50,10 @@ function validarContrasinal() {
         error(CONTRASINAL, "La contraseña debe tener al menos una mayúscula");
       } else if (!regexNumero.test(CONTRASINAL.value)) {
         error(CONTRASINAL, "La contraseña debe tener al menos un número");
-      } else if (!regexSimbolo.test(CONTRASINAL.value)){
+      } else if (!regexSimbolo.test(CONTRASINAL.value)) {
         error(CONTRASINAL, "La contraseña debe tener al menos un símbolo");
       } else {
-        error(CONTRASINAL, "La contraseña debe tener entre 6 y 12 caracteres")
+        error(CONTRASINAL, "La contraseña debe tener entre 6 y 12 caracteres");
       }
     }
 
@@ -126,10 +128,22 @@ function borrarError() {
 
 CONTRASINAL_VISIBILITY.addEventListener("click", showPassword, false);
 
+let cont = 1;
+
 function showPassword() {
   if (CONTRASINAL.type === "password") {
     CONTRASINAL.type = "text";
   } else {
     CONTRASINAL.type = "password";
+  }
+
+  cont++;
+
+  if (cont % 2 == 0) {
+    CONTRASINAL_VISIBILITY.classList.remove("fa-eye-slash");
+    CONTRASINAL_VISIBILITY.classList.add("fa-eye");
+  } else {
+    CONTRASINAL_VISIBILITY.classList.remove("fa-eye");
+    CONTRASINAL_VISIBILITY.classList.add("fa-eye-slash");
   }
 }

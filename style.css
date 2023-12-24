@@ -116,6 +116,10 @@ label .fa-regular {
   color: rgba(210, 230, 250, 0.7);
 }
 
+label i.fa-eye {
+  color: #88183a;
+}
+
 input[type="checkbox"] {
   vertical-align: middle;
   margin: 30px 3px;
