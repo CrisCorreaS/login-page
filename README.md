@@ -1,5 +1,5 @@
 # Login Page Responsive
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-EN%20DESAROLLO-green) <br>
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
 
 [![Imagen del LogIn Page](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)](https://criscorreas.github.io/login-page/)
 
@@ -11,6 +11,29 @@ Esta Login Page, inspirada en el ["Login Page" de Frontend Projects](https://fro
 
 #### Vista previa del Login Page
 ![Vista previa del Login Page](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)
+
+## Responsive
+
+#### Vista desde un ordenador
+![Login Page vista desde un Ordenador](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)
+
+#### Vista desde un teléfono
+- Pixel 7 <br>
+<img src="https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-pixel-7.png" alt="Login Page vista desde un Google Pixel 7" height=700px>
+
+<br>
+
+- iPhone SE <br>
+<img src="https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-iphone-se.png" alt="Login Page vista desde un iPhone SE" height=500px>
+
+#### Vista desde una tablet
+- Nest Hub Max <br><br>
+![Login Page vista desde un Nest Hub Max](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-nest-hub-max.png)
+
+<br>
+
+- iPad Pro <br><br>
+![Login Page vista desde un iPad Pro](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-ipad-pro.png)
 
 ## Características
 
