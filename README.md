@@ -45,6 +45,7 @@ Este proyecto presenta una página de inicio de sesión responsive, facilitando 
 - **Validación de Campos:** El sistema valida correo electrónico y contraseña, exigiendo al menos un número, una mayúscula, un símbolo, y una longitud entre 6 y 12 caracteres.
 - **"Recordarme":** Funcionalidad que guarda el nombre de usuario para accesos futuros.
 - **Visualización de Contraseña:** Opción para ver u ocultar la contraseña según la preferencia del usuario.
+  
 [Haz click aquí para ver el vídeo con algunas funcionalidades](https://github.com/CrisCorreaS/login-page/blob/main/video/login-page-video.mp4)
 
 ## 🛠️ Tecnologías Utilizadas
