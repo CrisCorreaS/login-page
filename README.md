@@ -1,18 +1,22 @@
 # Login Page Responsive
-![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet) <br/>
-
+![Badge en Desarollo](https://img.shields.io/badge/STATUS-FINALIZADO-violet)
+<img align="right" alt="License MIT" src="https://img.shields.io/badge/LICENSE-MIT-green" /> <br/><br/>
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="css3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+<img alt="javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<br/><br/>
 [![Imagen del LogIn Page](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)](https://criscorreas.github.io/login-page/)
 
 Esta Login Page, inspirada en el ["Login Page" de Frontend Projects](https://frontendsprojects.com/login-page/), ha sido creada por **[Cristina Correa](https://www.linkedin.com/in/cristina-correa-segade/)**.
 
-## Vista Previa
+## 👀 Vista Previa
 
-### **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/login-page/)**
+### ➡️ **Demo desplegada en GitHub Pages:** **[Haz click aquí](https://criscorreas.github.io/login-page/)**
 
 #### Vista previa del Login Page
 ![Vista previa del Login Page](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)
 
-## Responsive
+## 💻📱 Responsive
 
 #### Vista desde un ordenador
 ![Login Page vista desde un Ordenador](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista.png)
@@ -35,42 +39,47 @@ Esta Login Page, inspirada en el ["Login Page" de Frontend Projects](https://fro
 - iPad Pro <br><br>
 ![Login Page vista desde un iPad Pro](https://github.com/CrisCorreaS/login-page/blob/main/img/visualizaci%C3%B3n/login-page-vista-ipad-pro.png)
 
-## Características
+## 🌱 Características
 
-Este proyecto consiste en una página de inicio de sesión responsive, que permite ingresar con correo electrónico y contraseña. El sistema valida estos campos y cuenta tanto con la funcionalidad de "Recordarme", que guarda el nombre de usuario para facilitar futuros accesos, como con la funcionalidad de ver la contraseña. [Haz click aquí para ver el vídeo con lgunas funcionalidades](https://github.com/CrisCorreaS/login-page/blob/main/video/login-page-video.mp4" type="video/mp4)
+Este proyecto consiste en una página de inicio de sesión responsive, que permite ingresar con correo electrónico y contraseña. El sistema valida estos campos y cuenta tanto con la funcionalidad de "Recordarme", que guarda el nombre de usuario para facilitar futuros accesos, como con la funcionalidad de ver la contraseña. 
+[Haz click aquí para ver el vídeo con algunas funcionalidades](https://github.com/CrisCorreaS/login-page/blob/main/video/login-page-video.mp4")
 
-## Tecnologías Utilizadas
+## 🛠️ Tecnologías Utilizadas
 
 - HTML
 - CSS
 - JavaScript
 
-## Cómo Usar
+## 📓 Cómo Usar
 
 1. Descarga o clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
 
 ¡Y eso es todo! Ahora cualquier persona puede usar este login page.
 
-## Contribuciones
+## ✨ Contribuciones
 
 ¡Las contribuciones son bienvenidas! Si deseas mejorar el login page, como agregar más contenido o mejorar el diseño, no dudes en enviar tus pull requests. También puedes sugerir nuevas funcionalidades o brindar retroalimentación para hacer que este proyecto sea aún mejor.
 
-## Propósito del Proyecto
+## 🎯 Propósito del Proyecto
 
 Este proyecto tiene como objetivo principal el aprendizaje y la práctica del desarrollo web.
 
-## Recursos Utilizados
+## 👌 Recursos Utilizados
 A la hora de hacer este proyecto he utilizado los siguientes recursos:
 - ["Login Page" by Frontend Projects](https://frontendsprojects.com/login-page/)
-- [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
-- [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
-- [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [W3Schools - Toggle Password Visibility](https://www.w3schools.com/howto/howto_js_toggle_password.asp)
-- [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
-- [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
-- [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
-- [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
+- CSS:
+  - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
+- JavaScript:
+  - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
+  - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+  - [W3Schools - Toggle Password Visibility](https://www.w3schools.com/howto/howto_js_toggle_password.asp)
+- Google Fonts:
+  - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
+  - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
+- Font Awesome:
+  - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
+  - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
 
-## Licencia
+## ➡️ Licencia
 Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
