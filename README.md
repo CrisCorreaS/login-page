@@ -54,6 +54,29 @@ Este proyecto presenta una página de inicio de sesión responsive, facilitando 
 - CSS
 - JavaScript
 
+## 🔎💡 Información
+> [!IMPORTANT]
+> - Este es un proyecto para principiantes. No se requieren conocimientos avanzados de HTML, CSS o JavaScript.
+> - Está desarrollado utilizando JavaScript Vanilla, así que no se utiliza ningún framework. Sin embargo, si estás buscando un poco más de desafío, ¡siéntete libre de explorar la posibilidad de integrar un framework!
+> - **Nivel de dificultad del proyecto:** 🔴⭕⭕⭕⭕⭕⭕⭕⭕⭕ (1 sobre 10)
+
+> [!TIP]
+> A la hora de desarrollar el proyecto, te pueden venir bien los siguientes recursos:
+> - ["Login Page" by Frontend Projects](https://frontendsprojects.com/login-page/)
+> - CSS:
+>    - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
+> - JavaScript:
+>    - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
+>    - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+>    - [W3Schools - Toggle Password Visibility](https://www.w3schools.com/howto/howto_js_toggle_password.asp)
+> - Google Fonts:
+>    - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
+>    - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
+> - Font Awesome:
+>    - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
+>    - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
+
+
 ## 📓 Cómo Usar
 
 1. Descarga o clona este repositorio en tu máquina local.
@@ -68,22 +91,6 @@ Este proyecto presenta una página de inicio de sesión responsive, facilitando 
 ## 🎯 Propósito del Proyecto
 
 Este proyecto tiene como objetivo principal el aprendizaje y la práctica del desarrollo web.
-
-## 👌 Recursos Utilizados
-A la hora de hacer este proyecto he utilizado los siguientes recursos:
-- ["Login Page" by Frontend Projects](https://frontendsprojects.com/login-page/)
-- CSS:
-  - [Manz.Dev Lenguaje CSS](https://lenguajecss.com/css/)
-- JavaScript:
-  - [Manz.Dev Lenguaje Javascript](https://lenguajejs.com/javascript/)
-  - [JavaScript MDN Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-  - [W3Schools - Toggle Password Visibility](https://www.w3schools.com/howto/howto_js_toggle_password.asp)
-- Google Fonts:
-  - [How to use Google Fonts](https://developers.google.com/fonts/docs/css2?hl=es-419)
-  - [FAQs about Google Fonts](https://developers.google.com/fonts/faq?hl=es-419)
-- Font Awesome:
-  - [Font Awesome Get Started](https://fontawesome.com/docs/web/setup/get-started)
-  - [Font Awesome Documentation](https://fontawesome.com/v5/docs/web/reference-icons/)
 
 ## ➡️ Licencia
 Este proyecto está licenciado bajo [MIT License](https://opensource.org/license/mit/).
